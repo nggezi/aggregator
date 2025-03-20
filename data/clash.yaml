@@ -1,65 +1,77 @@
 proxies:
-  - {name: 🇹🇼 台湾01-1A, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
-  - {name: 🇯🇵 日本04-1B, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1P, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 1c406f17-6993-4548-a4ff-ed2d6cfc83fb, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港03-1A, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
-  - {name: 🇭🇰 香港02-1B, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1N, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 0960a4c6-f9c3-40b7-921e-adfd72e69b94, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港01-1B, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
-  - {name: 🇯🇵 日本01-1A, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1J, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 07ff8a23-db7a-4d25-8fb9-b1f3e5364262, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港02-1C, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
-  - {name: 🇺🇸 美国 纽约2-1B, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1Q, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: c9e3e8fc-8eb7-4d73-a2f8-4460e490d126, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港02-1D, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1I, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: ce67d55b-2d73-43e8-be65-1b6b376bae26, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 日本02-1D, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
-  - {name: 🇯🇵 日本03-1C, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
-  - {name: 🇺🇸 美国 纽约2-1D, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1T, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: f8a7d706-d999-443c-a141-52b80c8fda37, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港03-1D, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
-  - {name: 🇹🇼 台湾01-1D, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
-  - {name: 🇯🇵 日本03-1A, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
-  - {name: 🇺🇸 美国 纽约2-1C, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1H, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 1893fa23-72d9-4e2f-8b5b-a7eea7fe55d4, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 日本04-1C, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
-  - {name: 🇹🇼 台湾01-1C, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
-  - {name: 🇯🇵 日本02-1B, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1L, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: cb5195be-ec38-4365-8efc-1b0430a1cb4e, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港03-1C, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
-  - {name: 🇯🇵 日本03-1D, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1F, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 434b97f6-c0cc-4146-8fd0-6406ee4d1e78, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港03-1B, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
-  - {name: 🇺🇸 美国 纽约01-1B, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
-  - {name: 🇹🇼 台湾 1-1D, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
-  - {name: 🇭🇰 香港01-1C, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1O, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: f9b370ac-b440-427f-8618-4e2a50aa0df4, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 纽约2-1A, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1K, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 8bc79d78-b47b-4187-a17c-a1644f805052, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1M, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: e9d69574-04ad-4bb2-a2ef-c509565fac06, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1D, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 0c39fedd-da77-44f2-b8c4-c549128d3aa5, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 日本02-1A, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
-  - {name: 🇹🇼 台湾01-1B, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1G, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 02a9a178-641e-42c3-b30f-bc71df7ce025, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港01-1D, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
-  - {name: 🇭🇰 香港01-1A, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
-  - {name: 🇯🇵 日本02-1C, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1S, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: eb5d0208-aa3b-44b8-8c11-60772dc3e9e6, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港02-1A, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
-  - {name: 🇯🇵 日本04-1A, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
   - {name: 🇯🇵 日本01-1D, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
-  - {name: 🇹🇼 台湾 1-1B, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
-  - {name: 🇯🇵 日本04-1D, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1C, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 5a3d413f-8e47-441f-921b-dfcb9b89dd4d, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国 纽约01-1A, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
-  - {name: 🇯🇵 日本01-1C, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
+  - {name: 🇯🇵 日本03-1A, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
+  - {name: 🇯🇵 日本01-1B, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
+  - {name: 🇭🇰 香港01-1C, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
+  - {name: 🇹🇼 台湾 1-1E, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: 3c83eae2-7a31-4a22-8b85-83bd500c1ece, udp: true}
+  - {name: 🇹🇼 台湾 1-1A, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
+  - {name: 🇯🇵 日本04-1B, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
+  - {name: 🇺🇸 美国 纽约01-1C, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1T, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 8bc79d78-b47b-4187-a17c-a1644f805052, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1K, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 434b97f6-c0cc-4146-8fd0-6406ee4d1e78, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1D, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 5b01cbd9-24ff-4e19-89fd-509a0258e71d, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 日本04-1C, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
+  - {name: 🇯🇵 日本02-1E, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 3c83eae2-7a31-4a22-8b85-83bd500c1ece, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1H, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: eb5d0208-aa3b-44b8-8c11-60772dc3e9e6, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1I, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 0960a4c6-f9c3-40b7-921e-adfd72e69b94, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 纽约2-1B, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1E, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 0c39fedd-da77-44f2-b8c4-c549128d3aa5, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇹🇼 台湾01-1A, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
+  - {name: 🇭🇰 香港01-1B, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
+  - {name: 🇺🇸 美国 纽约2-1C, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
+  - {name: 🇭🇰 香港03-1A, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1R, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: e9d69574-04ad-4bb2-a2ef-c509565fac06, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 日本02-1A, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
+  - {name: 🇺🇸 美国 纽约2-1A, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
+  - {name: 🇭🇰 香港03-1D, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
+  - {name: 🇯🇵 日本02-1B, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
+  - {name: 🇭🇰 香港02-1A, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
+  - {name: 🇹🇼 台湾 1-1B, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1F, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: ecf9b7e8-70ed-4a3b-9407-6d49577a7dbf, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1G, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 4093f69a-93bc-44cf-97cb-3d5e4ad6d187, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇹🇼 台湾 1-1D, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1A, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 02a9a178-641e-42c3-b30f-bc71df7ce025, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港03-1C, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
+  - {name: 🇯🇵 日本01-1E, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 3c83eae2-7a31-4a22-8b85-83bd500c1ece, udp: true}
+  - {name: 🇯🇵 日本02-1C, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1Q, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: cb5195be-ec38-4365-8efc-1b0430a1cb4e, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1C, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: f9b370ac-b440-427f-8618-4e2a50aa0df4, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港03-1E, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 3c83eae2-7a31-4a22-8b85-83bd500c1ece, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1J, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: c9e3e8fc-8eb7-4d73-a2f8-4460e490d126, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港01-1E, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 3c83eae2-7a31-4a22-8b85-83bd500c1ece, udp: true}
+  - {name: 🇺🇸 美国 纽约01-1B, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
+  - {name: 🇭🇰 香港01-1A, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1B, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: ce67d55b-2d73-43e8-be65-1b6b376bae26, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1L, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 5a3d413f-8e47-441f-921b-dfcb9b89dd4d, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇹🇼 台湾01-1B, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
   - {name: 🇺🇸 美国 纽约01-1D, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
-  - {name: 🇺🇸 美国 纽约01-1C, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1R, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 5b01cbd9-24ff-4e19-89fd-509a0258e71d, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 日本03-1B, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1E, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 289b6596-cd72-43df-8233-7ac55ac38136, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇹🇼 台湾 1-1C, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1B, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 4093f69a-93bc-44cf-97cb-3d5e4ad6d187, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇹🇼 台湾 1-1A, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1A, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: ecf9b7e8-70ed-4a3b-9407-6d49577a7dbf, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 日本01-1B, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
+  - {name: 🇯🇵 日本03-1D, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
+  - {name: 🇯🇵 日本04-1E, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 3c83eae2-7a31-4a22-8b85-83bd500c1ece, udp: true}
+  - {name: 🇯🇵 日本03-1E, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 3c83eae2-7a31-4a22-8b85-83bd500c1ece, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1S, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 289b6596-cd72-43df-8233-7ac55ac38136, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港03-1B, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
+  - {name: 🇯🇵 日本03-1C, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
+  - {name: 🇭🇰 香港02-1C, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
+  - {name: 🇺🇸 美国 纽约01-1A, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
+  - {name: 🇹🇼 台湾 1-1C, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1M, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 1c406f17-6993-4548-a4ff-ed2d6cfc83fb, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇹🇼 台湾01-1C, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
+  - {name: 🇯🇵 日本01-1C, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: cf97afdf-6697-4322-8274-272c75dfb6b5, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1U, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 7bd40421-c070-4b38-a10b-86bab323c634, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港02-1E, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 3c83eae2-7a31-4a22-8b85-83bd500c1ece, udp: true}
+  - {name: 🇯🇵 日本04-1A, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
+  - {name: 🇯🇵 日本03-1B, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
+  - {name: 🇯🇵 日本01-1A, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: d549bf2c-e47d-4d0c-b902-86a21b736bea, udp: true}
+  - {name: 🇭🇰 香港02-1B, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: b6470eef-e3f7-402c-b537-6c5caf35992d, udp: true}
+  - {name: 🇭🇰 香港02-1D, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
+  - {name: 🇭🇰 香港01-1D, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
+  - {name: 🇺🇸 美国 纽约2-1D, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
+  - {name: 🇹🇼 台湾01-1D, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
+  - {name: 🇺🇸 美国 纽约01-1E, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 3c83eae2-7a31-4a22-8b85-83bd500c1ece, udp: true}
+  - {name: 🇹🇼 台湾01-1E, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: 3c83eae2-7a31-4a22-8b85-83bd500c1ece, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1N, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 1893fa23-72d9-4e2f-8b5b-a7eea7fe55d4, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 日本04-1D, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
+  - {name: 🇯🇵 日本02-1D, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 2279a864-e434-4fca-8892-80bbae019e3a, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1P, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 07ff8a23-db7a-4d25-8fb9-b1f3e5364262, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国 纽约2-1E, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 3c83eae2-7a31-4a22-8b85-83bd500c1ece, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1O, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: f8a7d706-d999-443c-a141-52b80c8fda37, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
