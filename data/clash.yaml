@@ -1,27 +1,11 @@
 proxies:
-  - {name: 🇰🇷 韩国-三网优化2-1F, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 9de14eea-06e6-4436-9fb6-b09505ccd1b3, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇬 新加坡-1A, server: nnertn.vxzjv.xyz, port: 11003, type: ss, cipher: chacha20-ietf-poly1305, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, udp: true}
-  - {name: 🇨🇦 加拿大-1B, server: sfneran.vxzjv.xyz, port: 11004, type: trojan, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, skip-cert-verify: true, udp: true}
-  - {name: 🇯🇵 日本-1B, server: sfneran.vxzjv.xyz, port: 11001, type: trojan, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, skip-cert-verify: true, udp: true}
-  - {name: 🇬🇧 英国-1A, server: nnertn.vxzjv.xyz, port: 11006, type: trojan, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, skip-cert-verify: true, udp: true}
-  - {name: 🇰🇷 韩国-1A, server: nnertn.vxzjv.xyz, port: 11000, type: trojan, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, skip-cert-verify: true, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1G, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: e71eb63a-9df9-4a4e-8e17-81d242e3141b, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国一, server: 150.230.36.182, port: 11007, type: ss, cipher: chacha20-ietf-poly1305, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1D, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: f91ed0d0-abc8-4e3b-930d-ee86577921ab, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国-1B, server: sfneran.vxzjv.xyz, port: 11000, type: trojan, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, skip-cert-verify: true, udp: true}
-  - {name: 🇦🇺 澳大利亚-1A, server: nnertn.vxzjv.xyz, port: 11005, type: trojan, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, skip-cert-verify: true, udp: true}
-  - {name: 🇯🇵 日本-1A, server: nnertn.vxzjv.xyz, port: 11001, type: trojan, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港, server: sfneran.vxzjv.xyz, port: 11002, type: ss, cipher: chacha20-ietf-poly1305, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, udp: true}
-  - {name: 🇸🇬 新加坡-1B, server: sfneran.vxzjv.xyz, port: 11003, type: ss, cipher: chacha20-ietf-poly1305, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1I, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: d8848432-854d-46cb-ab57-83512f4d0a56, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国-1B, server: sfneran.vxzjv.xyz, port: 11007, type: ss, cipher: chacha20-ietf-poly1305, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1C, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 3d037286-bc1c-4045-a31f-050d87b200bf, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇦 加拿大-1A, server: nnertn.vxzjv.xyz, port: 11004, type: trojan, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, skip-cert-verify: true, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1H, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 22b6d7c0-5649-4512-a1f5-5d3d08d65cef, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港 多媒体 AI解锁, server: nnertn.vxzjv.xyz, port: 11002, type: ss, cipher: chacha20-ietf-poly1305, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1A, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 82fbb813-0d95-469f-b2fe-7be7c99a6f9f, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇬🇧 英国-1B, server: sfneran.vxzjv.xyz, port: 11006, type: trojan, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, skip-cert-verify: true, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1B, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: fd7ec732-a0e8-43d9-b444-0f0a6d1ec857, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
-  - {name: 🇦🇺 澳大利亚-1B, server: sfneran.vxzjv.xyz, port: 11005, type: trojan, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国-1A, server: nnertn.vxzjv.xyz, port: 11007, type: ss, cipher: chacha20-ietf-poly1305, password: 1e12c166-4f3a-48f4-a694-5a018fdf2d30, udp: true}
-  - {name: 🇰🇷 韩国-三网优化2-1E, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: daa7da74-b3d6-4d2f-a575-998a1e9d59ca, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1J, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 2b56ca27-a56b-4271-b640-314ca9668e7d, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1F, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 3d037286-bc1c-4045-a31f-050d87b200bf, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1A, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 22b6d7c0-5649-4512-a1f5-5d3d08d65cef, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1D, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: fd7ec732-a0e8-43d9-b444-0f0a6d1ec857, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1E, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: e71eb63a-9df9-4a4e-8e17-81d242e3141b, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1G, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: d8848432-854d-46cb-ab57-83512f4d0a56, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1B, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: f91ed0d0-abc8-4e3b-930d-ee86577921ab, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1C, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: daa7da74-b3d6-4d2f-a575-998a1e9d59ca, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1H, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 82fbb813-0d95-469f-b2fe-7be7c99a6f9f, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1I, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 9de14eea-06e6-4436-9fb6-b09505ccd1b3, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
