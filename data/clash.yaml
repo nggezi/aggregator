@@ -1,3 +1,4 @@
 proxies:
   - {name: 🇰🇷 韩国-三网优化2-1B, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 4e160d67-fc86-456c-80ab-8de048675df7, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
   - {name: 🇰🇷 韩国-三网优化2-1A, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: adc4ddf5-5949-4888-bd1a-758a531cfb5b, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2-1C, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: d4b9da91-fd7a-45eb-a1c8-f985c387b095, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
